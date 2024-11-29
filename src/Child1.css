@@ -1,0 +1,33 @@
+#streamgraph {
+  flex: 3;
+}
+
+#legend {
+  flex: 1;
+  padding-left: 10px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.legend-item div {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.legend-item span {
+  font-size: 14px;
+}
+
+.tooltip {
+  position: absolute;
+  display: none;
+  background: white;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 5px;
+}
