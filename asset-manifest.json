@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/streamgraph-assign6/static/css/main.006d8d51.css",
+    "main.js": "/streamgraph-assign6/static/js/main.f6d81ccf.js",
+    "index.html": "/streamgraph-assign6/index.html",
+    "main.006d8d51.css.map": "/streamgraph-assign6/static/css/main.006d8d51.css.map",
+    "main.f6d81ccf.js.map": "/streamgraph-assign6/static/js/main.f6d81ccf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.006d8d51.css",
+    "static/js/main.f6d81ccf.js"
+  ]
+}
